@@ -1,0 +1,16 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: whitesmoke;
+    height: 100dvh;
+}
+
+h1{
+    color: crimson;
+    font-family: cursive;
+}
+
+img{
+    height: 100%;
+    width: 300%;
+}
